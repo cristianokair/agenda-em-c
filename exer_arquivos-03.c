@@ -1,3 +1,9 @@
+/*
+        Nomes:  Cristiano Serafim Kair
+                Karina Bressan Felicetti
+                Haidi Carolina Baumer Branco
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
